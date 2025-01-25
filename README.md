@@ -1,4 +1,4 @@
-# quantum-algorithm
+# Quantum Machine Algorithm
 Research &amp; Development of Quantum Algorithm
 
 
